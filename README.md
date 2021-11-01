@@ -1,0 +1,2 @@
+# react_resume_shows
+用react构建的简单展示简历网页demo
